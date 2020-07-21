@@ -1,4 +1,4 @@
-Hi I am Rachel. I started my college life in web development, didn't quite grasp where I though I needed to be towards the end of my schooling, so I moved to Cedar Rapids and switched to Graphic Design. Over the years jobs have put me back in the role of web development/design, so I figured captilize on it by acutally learning and developing this skill. 
+Hi I am Rachel. I started my college life in web development, didn't quite grasp where I thought I needed to be towards the end of my schooling, so I moved to Cedar Rapids and switched to Graphic Design. Over the years jobs have put me back in the role of web development/design, so I figured captilize on it by acutally learning and developing this skill. 
 
 I have 3 kids and have been married for 12 years. Looking forward to gaining insight, growth and seeing where this flies me.
 
@@ -9,7 +9,7 @@ I have 3 kids and have been married for 12 years. Looking forward to gaining ins
 
 Growth mindset means the ability to understand and adapt through challenges, obstacals and critisms. Growth mindset is always learning.
 
-## ***Three things to keep in mind while developing a growth mindset for me personally:***
+***Three things to keep in mind while developing a growth mindset for me personally:***
 
 
 **1. Overcoming Challenges and Obstacles**
