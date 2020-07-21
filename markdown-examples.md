@@ -7,7 +7,7 @@ I have 3 kids and have been married for 12 years. Looking forward to gaining ins
 
 ## What this means to me
 
-Growth mindset means the ability to understand and adapt through challenges, obstacals and critisms. Growth mindset is always learning.
+Growth mindset means the ability to understand and adapt through challenges, obstacals and criticisms. **Growth mindset** is always learning.
 
 ***Three things to keep in mind while developing a growth mindset for me personally:***
 
@@ -16,7 +16,7 @@ Growth mindset means the ability to understand and adapt through challenges, obs
 
 If I am stuck on a problem and I get frustrated, I tend walk away/avoid. 
 
-I need to take not from my kids learning in school with the phrase >"I don't know how to do this... *Yet*"
+I need to take not from my kids learning in school with the phrase "I don't know how to do this... *Yet*"
 
 **2. Effort**
 
