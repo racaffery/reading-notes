@@ -4,7 +4,8 @@
 
 Growth mindset means the ability to understand and adapt through challenges, obstacals and critisms. Growth mindset is always learning.
 
-# ***Three things to keep in mind while developing a growth mindset for me personally:***
+## ***Three things to keep in mind while developing a growth mindset for me personally:***
+
 
 **1. Overcoming Challenges and Obstacles**
 
@@ -24,7 +25,7 @@ When you see someone "killing it out there", take notes, and adapt so that you c
 
 Comparison of other people is not your enemy but your spark to burn your own fire bright. 
 
-[Learn more about me] (https://github.com/racaffery)
+[Learn more about me](https://github.com/racaffery)
 
 
 [Return to Readme](/README.md)
