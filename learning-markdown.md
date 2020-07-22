@@ -1,6 +1,6 @@
 ## What is Markdown?
 
-**Markdown** is a markup language that converts web-based text into plain text. Formatting the text on webpages is done mainly with non-alphabetic character such as * or #. These characters tell the text how to appear on the screen. 
+**Markdown** is a markup language that converts web-based text into plain text. Formatting the text on webpages is done mainly with non-alphabetic characters such as * or #. These characters tell the text how to appear on the screen. 
 
 Markdown language is most used on the [*Github.com*](https://github.com/) coding platform. It is also used in technical writing, 
 
@@ -27,10 +27,6 @@ This is *italic* text.
 
 If I want to keep a ~~mitake~~ mistake, I can use strikethrough. 
 
-Inserting a photo, so you can get fancy - 
-
-![Photo of Rachel]
-(https://photos.google.com/photo/AF1QipNVNN3sAqQHxIs8nM_VobZKWWfjZPL1wQ14sIRI)
 
 #### Main resources
 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
