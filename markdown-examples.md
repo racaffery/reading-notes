@@ -33,4 +33,8 @@ Comparison of other people is not your enemy but your spark to burn your own fir
 [Learn more about me](https://github.com/racaffery)
 
 
-[Return to Readme](/README.md)
+###### Site Navagation
+
+[Home](/README.md)
+
+[Learning Markdown](/learning-markdown.md)
