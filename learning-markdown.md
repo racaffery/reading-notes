@@ -42,6 +42,6 @@ https://lh3.googleusercontent.com/OWhmU-eQt5eCkDQwZ6Nh6sK0QGAJCIjYabWlbg0xuru7z4
 
 ###### Site Navagation
 
-[Home](README.md)
+[Home](/README.md)
 
-[Growth Mindset-Lab](markdown-examples.md)
+[Growth Mindset-Lab](/markdown-examples.md)
