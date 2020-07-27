@@ -38,3 +38,5 @@ Comparison of other people is not your enemy but your spark to burn your own fir
 [Home](/README.md)
 
 [Learning Markdown](/learning-markdown.md)
+
+[Coder's Computer](/CODERS_COMPUTER.md)
