@@ -39,3 +39,5 @@ If I want to keep a ~~mitake~~ mistake, I can use strikethrough.
 [Home](/README.md)
 
 [Growth Mindset-Lab](/markdown-examples.md)
+
+[Coder's Computer](/CODERS_COMPUTER.md)
